@@ -1,0 +1,20 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 2rem;
+}
+
+.experience li {
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+    width: 91%;
+}
+
+.experience h3 {
+    font-size: 1rem;
+    font-weight: 500;
+}

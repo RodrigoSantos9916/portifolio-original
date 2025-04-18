@@ -1,0 +1,16 @@
+.education ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+    width: 91%;
+}
+
+.education ul li {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    list-style: none;
+}
